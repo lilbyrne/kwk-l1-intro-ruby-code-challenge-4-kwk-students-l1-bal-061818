@@ -1,5 +1,4 @@
-#write out your code here
-
+Hash.new 
 def least_coins(cents)
 
 #Code your answer here!
